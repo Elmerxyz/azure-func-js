@@ -1,0 +1,15 @@
+{
+  "name": "azure-functions-app",
+  "version": "1.0.0",
+  "description": "Azure Functions app for handling HTTP and Timer triggers",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "azure-functions-core-tools": "^4.0.0"
+  }
+}
