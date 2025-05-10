@@ -2,7 +2,7 @@ module.exports = async function (context, req) {
     context.res = {
         status: 200,
         body: {
-            message: "Hello World",
+            message: "Hello dfgdfWorld",
             date: new Date().toISOString()
         },
         headers: {
