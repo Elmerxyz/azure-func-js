@@ -37,3 +37,4 @@ To run the project locally, use the Azure Functions Core Tools. Make sure to ins
 ## License
 
 This project is licensed under the MIT License.# azure-func-js
+# azure-func-js
